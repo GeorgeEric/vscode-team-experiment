@@ -5,3 +5,4 @@ def goodbye(name):
 	print(f"Goodbye, {name}!")
 goodbye("GitHub")
 greet("GitHub")	
+greet("GitHub")
